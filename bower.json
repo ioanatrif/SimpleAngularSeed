@@ -1,0 +1,16 @@
+{
+  "name": "sp-blogger",
+  "version": "0.0.1",
+  "authors": [
+    "ioanatrif <ioana.trif@cloud-soft.eu>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
